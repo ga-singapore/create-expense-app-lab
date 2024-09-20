@@ -4,10 +4,12 @@
 
 In this lab, you'll build an app that does CRD and reuses components.
 
-This is the wireframe
+
+## Wireframe
+
+You are to base the app on the wireframe outlined below.<br/>
 <br />
 ![Expense App Wireframe](./assets/expense-app.png)
-
 
 
 ## Requirements
