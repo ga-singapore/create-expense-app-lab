@@ -5,7 +5,7 @@
 In this lab, you'll build an app that does CRD and reuses components.
 
 This is the wireframe
-
+<br />
 ![Expense App Wireframe](./assets/expense-app.png)
 
 
