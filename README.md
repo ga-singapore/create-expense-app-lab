@@ -1,4 +1,7 @@
-# ![React Components Lab](./assets/hero.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Create Expense App Lab</span>
+</h1>
 
 Welcome, you are about to create your first React app from scratch.
 
@@ -8,24 +11,15 @@ In this lab, you will create a create an Expense app which will look like this.
 
 ![Expense App](./assets/expense-app.png)
 
-You will learn how to reuse components in your app with different labels and different functionality.
+You will learn how to reuse components in your app with different data and different functionality and add items to state, read and also update.
 
-You are required to build only 6 components for this app:
-- Input
-- Form
-- Label
-- Input
-- Button
-- Item
-
-You are allowed to name the components any name you see fit.
+You are to build 7 components only and reuse them to get the look of the app.
 
 ## Prerequisites
 
 - React Components
-- State Management
+- State Management (including props)
 - Lifting State
-- Controlled Forms
 
 ## Time to complete
 

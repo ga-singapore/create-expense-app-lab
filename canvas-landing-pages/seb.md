@@ -1,6 +1,9 @@
-# ![React Components Lab](../assets/hero.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Create Expense App Lab</span>
+</h1>
 
-Welcome to building to your first full React app, in which only the wireframe and some helping notes will be provided.
+Welcome to building to your first full React app, in which only the wireframe and some notes will be provided.
 
 ## About 
 

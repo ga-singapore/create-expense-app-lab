@@ -1,4 +1,8 @@
-# ![React Components Lab - Setup](./assets/hero.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Create Expense App Lab</span>
+  <span class="subhead">Setup</span>
+</h1>
 
 ## Setup
 
