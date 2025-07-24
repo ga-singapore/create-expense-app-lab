@@ -3,6 +3,7 @@
   <span class="headline">Create Expense App Lab</span>
   <span class="subhead">Exercise</span>
 </h1>
+
 ## Overview
 
 In this lab, you'll build an app that does CREATE, READ and DELETE (CRD) with `useState` and reuse of components.
