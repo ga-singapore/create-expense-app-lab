@@ -67,11 +67,12 @@ The className is prop'ed to `<Button />` from the parent and the functionality i
 const Parent = (props) => {
   return (
     <Button>
-      // Any jsx, Components, text, etc. in this area
-      // between the open and close elements 
-      // will be passed to the Button child
-      // as props.children. 
-      // props.children is create automatically.
+      // Any jsx, Components, text, etc. in this area between
+      // the open and close elements will be passed to the
+      // Button child component as props.children.
+
+      // NOTE: props.children is create automatically. You
+      // DO NOT have to pass it down as a prop.
     </Button>
   )
 }
