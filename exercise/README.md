@@ -52,9 +52,9 @@ const Button = (props) => {
     <button className={`btn ${props.className}`} 
       type="button" onClick={props.onClick}>
 
-		{props.children}
+        {props.children}
 
-	</button>
+    </button>
   )
 }
 ```
