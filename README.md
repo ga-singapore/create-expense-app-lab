@@ -32,7 +32,7 @@ You are required to complete this during lesson time and submit it before you le
 
 ## Solution code (Todo?)
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/react-components-lab-solution)
+🏁 [Solution code](https://github.com/ga-curriculum/react-components-lab-solution)
 
 ## Internal resources
 
